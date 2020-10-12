@@ -2,5 +2,5 @@ title: "Matrix Calculator"
 remote_theme : "manid2/lone-wolf-theme"
 bootswatch_theme : "united"
 markdown: CommonMarkGhPages
-description: "This is a python based Android application used to simply calculate Determinant of provided Matrix."
+description: "This is a python"
 
