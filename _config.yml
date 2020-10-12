@@ -1,5 +1,5 @@
 title: Matrix Calculator
-theme: jekyll-theme-merlot
+remote_theme : "manid2/lone-wolf-theme"
 markdown: CommonMarkGhPages
 description: This is a python based Android application used to simply calculate Determinant of provided Matrix.
 
